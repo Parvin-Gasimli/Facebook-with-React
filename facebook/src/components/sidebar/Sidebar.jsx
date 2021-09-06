@@ -62,118 +62,118 @@ export default function sidebar() {
         <hr className="sidebarHr" />
         <ul className="sidebarFriendlist">
             <li className="sidebarfriend">
-                <img className="sidebarFriendImg" src="" alt="" />
+                <img className="sidebarFriendImg" src="assest/user.jpg" alt="" />
                 <span className="sidebarFriendName">
                     Parvin Gasimli
                 </span>
             </li>
             <li className="sidebarfriend">
-                <img className="sidebarFriendImg" src="" alt="" />
+                <img className="sidebarFriendImg" src="assest/user.jpg" alt="" />
                 <span className="sidebarFriendName">
-                    Parvin Gasimli
+                    Mark Dahilu
                 </span>
             </li>
             <li className="sidebarfriend">
-                <img className="sidebarFriendImg" src="" alt="" />
+                <img className="sidebarFriendImg" src="assest/user.jpg" alt="" />
                 <span className="sidebarFriendName">
-                    Parvin Gasimli
+                    Jhon Thime
                 </span>
             </li>
             <li className="sidebarfriend">
-                <img className="sidebarFriendImg" src="" alt="" />
+                <img className="sidebarFriendImg" src="assest/user.jpg" alt="" />
                 <span className="sidebarFriendName">
-                    Parvin Gasimli
-                </span>
-            </li>
-            <li className="sidebarfriend">
-                
-                <img className="sidebarFriendImg" src="" alt="" />
-                <span className="sidebarFriendName">
-                    Parvin Gasimli
+                    Smal Mike
                 </span>
             </li>
             <li className="sidebarfriend">
                 
-                <img className="sidebarFriendImg" src="" alt="" />
+                <img className="sidebarFriendImg" src="assest/user.jpg" alt="" />
                 <span className="sidebarFriendName">
-                    Parvin Gasimli
+                    Tomas Ruby
                 </span>
             </li>
             <li className="sidebarfriend">
                 
-                <img className="sidebarFriendImg" src="" alt="" />
+                <img className="sidebarFriendImg" src="assest/user.jpg" alt="" />
                 <span className="sidebarFriendName">
-                    Parvin Gasimli
+                    Jack Blone
                 </span>
             </li>
             <li className="sidebarfriend">
                 
-                <img className="sidebarFriendImg" src="" alt="" />
+                <img className="sidebarFriendImg" src="assest/user.jpg" alt="" />
                 <span className="sidebarFriendName">
-                    Parvin Gasimli
+                    Range Mike
                 </span>
             </li>
             <li className="sidebarfriend">
                 
-                <img className="sidebarFriendImg" src="" alt="" />
+                <img className="sidebarFriendImg" src="assest/user.jpg" alt="" />
                 <span className="sidebarFriendName">
-                    Parvin Gasimli
+                    Stimmer Cale
                 </span>
             </li>
             <li className="sidebarfriend">
                 
-                <img className="sidebarFriendImg" src="" alt="" />
+                <img className="sidebarFriendImg" src="assest/user.jpg" alt="" />
                 <span className="sidebarFriendName">
-                    Parvin Gasimli
+                    Razyen Daven
                 </span>
             </li>
             <li className="sidebarfriend">
                 
-                <img className="sidebarFriendImg" src="" alt="" />
+                <img className="sidebarFriendImg" src="assest/user.jpg" alt="" />
                 <span className="sidebarFriendName">
-                    Parvin Gasimli
+                    David Blonde
                 </span>
             </li>
             <li className="sidebarfriend">
                 
-                <img className="sidebarFriendImg" src="" alt="" />
+                <img className="sidebarFriendImg" src="assest/user.jpg" alt="" />
                 <span className="sidebarFriendName">
-                    Parvin Gasimli
+                    Michel Juli
                 </span>
             </li>
             <li className="sidebarfriend">
                 
-                <img className="sidebarFriendImg" src="" alt="" />
+                <img className="sidebarFriendImg" src="assest/user.jpg" alt="" />
                 <span className="sidebarFriendName">
-                    Parvin Gasimli
+                Michel Juli
                 </span>
             </li>
             <li className="sidebarfriend">
                 
-                <img className="sidebarFriendImg" src="" alt="" />
+                <img className="sidebarFriendImg" src="assest/user.jpg" alt="" />
                 <span className="sidebarFriendName">
-                    Parvin Gasimli
+                Michel Juli
                 </span>
             </li>
             <li className="sidebarfriend">
                 
-                <img className="sidebarFriendImg" src="" alt="" />
+                <img className="sidebarFriendImg" src="assest/user.jpg" alt="" />
                 <span className="sidebarFriendName">
-                    Parvin Gasimli
+                Michel Juli
                 </span>
             </li>
             <li className="sidebarfriend">
                 
-                <img className="sidebarFriendImg" src="" alt="" />
+                <img className="sidebarFriendImg" src="assest/user.jpg" alt="" />
                 <span className="sidebarFriendName">
-                    Parvin Gasimli
+                Michel Juli
                 </span>
             </li>
             <li className="sidebarfriend">
                 
-                <img className="sidebarFriendImg" src="" alt="" />
+                <img className="sidebarFriendImg" src="assest/user.jpg" alt="" />
                 <span className="sidebarFriendName">
-                    Parvin Gasimli
+                Michel Juli
+                </span>
+            </li>
+            <li className="sidebarfriend">
+                
+                <img className="sidebarFriendImg" src="assest/user.jpg" alt="" />
+                <span className="sidebarFriendName">
+                Michel Juli
                 </span>
             </li>
         </ul>

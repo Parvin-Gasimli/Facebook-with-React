@@ -38,7 +38,7 @@ export default function Topbar() {
           
           </div>
         </div>
-           <img src="" alt="" className="topbarImage" />
+           <img src="assest/story1.jpg" alt="" className="topbarImage" />
       </div>
     </div>
   );
